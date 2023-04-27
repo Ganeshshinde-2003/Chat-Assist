@@ -40,5 +40,10 @@ The virtual assistant integrates with third-party APIs to access additional feat
 ## Usage
 To use the virtual assistant, simply launch the app on your mobile device and start speaking your requests aloud. The app will convert your speech to text and generate an image based on your request. You can also ask the chatbot questions by speaking them into the app's interface.
 
+## Screenshots
+Here is screenshot of the Voice Assist app:
+
+![jarvis](https://user-images.githubusercontent.com/115361691/234783729-ace9f3a0-5547-4c0c-887b-834a1e2c0c04.jpg)
+
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request or open an issue. I welcome all the contributions from developers of all skill levels.
